@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        {
+            "title": "My First Blog",
+            "body" : "ihsdi kj vi nviibdai ibfiovba jb fiuvbbiua ibibfvibiabdf ofadbibiad ievbf[iobab bnbiub iufbvibi  nbionvioanon",
+            "author": "mario",
+            "id": 1
+        },
+        {
+            "title": "My second Blog",
+            "body" : "ihsdi kj vi nviibdai ibfiovba jb fiuvbbiua ibibfvibiabdf ofadbibiad ievbf[iobab bnbiub iufbvibi  nbionvioanon",
+            "author": "mario",
+            "id": 2
+        }
+    ]
+}
